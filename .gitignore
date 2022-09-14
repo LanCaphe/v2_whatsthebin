@@ -134,4 +134,4 @@ dmypy.json
 .pyre/
 >>>>>>> 1992b1b (Initial commit)
 #pycharm files
-.idea/
+/.idea
